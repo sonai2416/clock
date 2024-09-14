@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: url(https://www.ultraimagehub.com/wallpapers/tr:flp-false,gx-0.3,gy-0.4,q-75,rh-3264,rw-5824,th-1080,tw-1920/1272582519480385579.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 3em;
+    color: #ffffff;
+}
